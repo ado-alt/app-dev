@@ -1,21 +1,21 @@
 # app-dev
 My first repository
 
-## Favorite Series: The Office
+## Favorite Series: Doraemon
 
-> "Sometimes I'll start a sentence and I don't even know where it's going. I just hope I find it along the way." — Michael Scott
+> "The future is not something you enter. The future is something you create." — Doraemon
 
 ### Why I love it
-- Funny and relatable characters
-- Clever workplace humor
-- Memorable quotes and story arcs
+- Heartwarming stories
+- Creative gadgets and imagination
+- Fun adventures with strong friendship themes
 
 ### Quick facts
 | Title | Genre | Why it stands out |
 | --- | --- | --- |
-| The Office | Comedy | A mix of humor, heart, and everyday office chaos |
+| Doraemon | Adventure / Comedy | A perfect mix of imagination, humor, and life lessons |
 
 ### My favorite moment
-The awkward office moments and team chemistry make every episode entertaining.
+The playful adventures and the way the characters solve problems with creativity and kindness make every episode memorable.
 
-For more info, check out [The Office on Wikipedia](https://en.wikipedia.org/wiki/The_Office_(American_TV_series)).
+For more info, check out [Doraemon on Wikipedia](https://en.wikipedia.org/wiki/Doraemon).
